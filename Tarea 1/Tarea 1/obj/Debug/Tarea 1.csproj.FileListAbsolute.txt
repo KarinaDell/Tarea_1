@@ -1,0 +1,20 @@
+C:\Users\20135214\Desktop\Tarea 1\Tarea 1\bin\Debug\Tarea 1.exe.config
+C:\Users\20135214\Desktop\Tarea 1\Tarea 1\bin\Debug\Tarea 1.exe
+C:\Users\20135214\Desktop\Tarea 1\Tarea 1\bin\Debug\Tarea 1.pdb
+C:\Users\20135214\Desktop\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csprojResolveAssemblyReference.cache
+C:\Users\20135214\Desktop\Tarea 1\Tarea 1\obj\Debug\Tarea_1.Form1.resources
+C:\Users\20135214\Desktop\Tarea 1\Tarea 1\obj\Debug\Tarea_1.Properties.Resources.resources
+C:\Users\20135214\Desktop\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csproj.GenerateResource.Cache
+C:\Users\20135214\Desktop\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csproj.CoreCompileInputs.cache
+C:\Users\20135214\Desktop\Tarea 1\Tarea 1\obj\Debug\Tarea 1.exe
+C:\Users\20135214\Desktop\Tarea 1\Tarea 1\obj\Debug\Tarea 1.pdb
+C:\Users\MARIO\Desktop\Tarea 1\Tarea 1\bin\Debug\Tarea 1.exe.config
+C:\Users\MARIO\Desktop\Tarea 1\Tarea 1\bin\Debug\Tarea 1.exe
+C:\Users\MARIO\Desktop\Tarea 1\Tarea 1\bin\Debug\Tarea 1.pdb
+C:\Users\MARIO\Desktop\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csprojResolveAssemblyReference.cache
+C:\Users\MARIO\Desktop\Tarea 1\Tarea 1\obj\Debug\Tarea_1.Form1.resources
+C:\Users\MARIO\Desktop\Tarea 1\Tarea 1\obj\Debug\Tarea_1.Properties.Resources.resources
+C:\Users\MARIO\Desktop\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csproj.GenerateResource.Cache
+C:\Users\MARIO\Desktop\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csproj.CoreCompileInputs.cache
+C:\Users\MARIO\Desktop\Tarea 1\Tarea 1\obj\Debug\Tarea 1.exe
+C:\Users\MARIO\Desktop\Tarea 1\Tarea 1\obj\Debug\Tarea 1.pdb
